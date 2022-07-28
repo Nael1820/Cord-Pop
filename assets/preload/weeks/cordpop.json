@@ -1,0 +1,26 @@
+{
+	"storyName": "Cord & Dj",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "cord",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Cord-Pop",
+			"cordheadphones",
+			[
+				66,
+				74,
+				96
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"cord",
+		"bf",
+		"gf"
+	],
+	"weekName": "weekcord"
+}
